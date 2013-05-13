@@ -1,4 +1,5 @@
 sumazi_public
 =============
 
-Sumazi Public Documentation
+For documentation, see the public wiki at:
+https://github.com/joshuaevenson/sumazi_public/wiki
